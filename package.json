@@ -1,0 +1,17 @@
+{
+  "name": "20230529wedding-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainapp.js",
+  "scripts": {
+    "dev": "nodemon mainapp.js"
+  },
+  "author": "ma-ono",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.1",
+    "nodemon": "^2.0.22"
+  }
+}
